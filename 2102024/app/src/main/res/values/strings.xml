@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">2102024</string>
+    <string name="zatwierdz">ZATWIERDZ</string>
+    <string name="email">email</string>
+    <string name="rejestruj_konto">Rejestruj konto</string>
+    <string name="podaj_e_mail">Podaj e-mail:</string>
+    <string name="podaj_haslo">Podaj haslo:</string>
+    <string name="powtorz_haslo">Powtorz haslo:</string>
+</resources>
