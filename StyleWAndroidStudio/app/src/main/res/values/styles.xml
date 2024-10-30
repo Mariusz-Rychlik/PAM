@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MainTextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">40sp</item>
+    </style>
+    <style name="SubTextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+    <style name="BodyColor">
+        <item name="android:background">#804fc4</item>
+    </style>
+    <style name="ButtonStyle">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:backgroundTint">@color/white</item>
+    </style>
+</resources>
