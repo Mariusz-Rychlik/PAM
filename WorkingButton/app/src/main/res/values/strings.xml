@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WorkingButton</string>
+    <string name="text">Text</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="toast">Toast</string>
+</resources>
