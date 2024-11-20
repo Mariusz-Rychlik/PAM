@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZadanieEgzamin</string>
+    <string name="zatwierdz">zatwierdz</string>
+    <string name="powtorz_haslo">powtorz haslo</string>
+    <string name="podaj_haslo">podaj haslo</string>
+    <string name="email">email</string>
+    <string name="podaj_e_mail">podaj e-mail</string>
+    <string name="rejestruj_konto">Rejestruj konto</string>
+    <string name="autor_mariusz_rychlik">Autor: Mariusz Rychlik</string>
+</resources>
