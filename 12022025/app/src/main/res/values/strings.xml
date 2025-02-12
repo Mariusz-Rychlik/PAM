@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">12022025</string>
+    <string name="imie">Imie</string>
+    <string name="email">email</string>
+    <string name="zwi_ksz_liczb">zwiększ liczbę</string>
+    <string name="klikn_e_przycisk_0_razy">Kliknąłeś przycisk 0 razy</string>
+</resources>
