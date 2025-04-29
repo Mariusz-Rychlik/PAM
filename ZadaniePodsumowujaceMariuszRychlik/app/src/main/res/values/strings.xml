@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Zadanie Podsumowujace Mariusz Rychlik</string>
+    <string name="login_header">Logowanie</string>
+    <string name="email">Adres e-mail</string>
+    <string name="password">Haslo</string>
+    <string name="login">Zaloguj sie</string>
+    <string name="fragments_play">Zabawa fragmentami</string>
+    <string name="change_fragment">Zmien fragment</string>
+    <string name="show_notification">Pokaz powiadomienie</string>
+    <string name="display_list">Wyswietlanie listy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_1">Fragment 1</string>
+    <string name="fragment_2">Fragment 2</string>
+    <string name="open_dialog_window">Otworz okno dialogowe</string>
+</resources>
