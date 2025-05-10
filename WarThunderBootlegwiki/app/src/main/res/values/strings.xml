@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WarThunderBootlegwiki</string>
+    <string name="wiki_redirect">Wiki redirect</string>
+    <string name="attention_for_undisclosed_time_the_forum_is_down_due_to_leaks_of_military_documents_please_for_the_love_of_god_dont_post_them">Attention! For undisclosed time the forum is down due to leaks of military documents, please for the love of God dont post them.</string>
+    <string name="forum_redirect">Forum redirect</string>
+    <string name="ground_wiki_redirect">Ground Wiki redirect</string>
+    <string name="air_wiki_redirect">Air Wiki redirect</string>
+    <string name="heli_wiki_redirect">Heli Wiki redirect</string>
+    <string name="fleet_wiki_redirect">Fleet Wiki redirect</string>
+</resources>
