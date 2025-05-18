@@ -10,13 +10,13 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-public class WikiSelect extends AppCompatActivity {
+public class Ground extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
-        setContentView(R.layout.activity_wiki_select);
+        setContentView(R.layout.activity_ground);
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
             Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
@@ -24,7 +24,7 @@ public class WikiSelect extends AppCompatActivity {
         });
     }
 
-    public void gotoGround(View view) {
-        startActivity(new Intent(WikiSelect.this, Ground.class));
+    public void gotoGermany(View view) {
+        startActivity(new Intent(Ground.this, GermanyTree.class));
     }
 }

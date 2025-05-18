@@ -32,7 +32,9 @@ android {
 }
 
 dependencies {
-
+    implementation(libs.androidx.room.runtime)
+    annotationProcessor(libs.room.compiler)
+    implementation (libs.gson)
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.activity)

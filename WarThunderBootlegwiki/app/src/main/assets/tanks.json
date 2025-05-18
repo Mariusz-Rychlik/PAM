@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Pz.35(t)",
+    "information": "The Panzerkampfwagen 35(t), also known as LT vz.35, was a Czechoslovakian light tank designed in 1935 by engineers at Škoda. The LT vz.35 was the most numerous tank in the Czechoslovakian army; during its serial production until 1939, 434 units were manufactured. After the German occupation of Czechoslovakia in 1939, these tanks were taken into service by the Wehrmacht, where they received the designation Pz.35(t) (Tschecherei: \"Czech\"). They formed the core of the German 1st Light Division and, after its reorganisation, the 6th Tank Division. The tanks were actively used by the Wehrmacht during the invasion of Poland, France, and the USSR in 1939-41. In smaller numbers, they were also used by the armies of Romania, Slovakia, Bulgaria, and Hungary, to which they were exported from Germany. Introduced in Update 1.51 \"Cold Steel\", the Pz.35(t) represents an average but versatile vehicle, which copes well with a wide range of tasks on the battlefield. On the other hand, it does not excel in anything: in mobility, the Pz.35(t) is inferior to many other light tanks, and its armour and survivability are generally mediocre. However, the decent 37 mm gun and good frontal armour allow the vehicle to successfully perform the role of a \"second line\" machine.",
+    "hullArmor": "25 / 16 / 16 mm",
+    "turretArmor": "25 / 16 / 16 mm",
+    "crew": "4 persons",
+    "forwardSpeed": "33 km/h",
+    "backwardSpeed": "33 km/h",
+    "enginePower": "120 hp",
+    "weight": "10.5 tons",
+    "powerToWeightRatio": "11.4 hp/ton",
+    "mainArmament": "37 mm KwK34(t) cannon",
+    "ammunition": "72 rounds",
+    "verticalTurretRotation": "10.5 -> 15°/s",
+    "horizontalTurretRotation": "9.8 -> 14°/s",
+    "reloadSpeed": "4.3 -> 3.3 s",
+    "verticalGuidance": "-10 / 25°"
+  },
+  {
+    "name": "Pz.III E",
+    "information": "The Panzerkampfwagen III Ausführung E (Panzer III E) (Sd.Kfz. Index: Sd.Kfz. 141) is the fifth variant of the Panzerkampfwagen III medium tank family. After the first four Panzer III variants were completed, it was discovered there was still a lot of potential for development and adjustment. The Panzer III E was the next variant in line, and it included a number of improvements, including a necessary increase in armour protection. More notably, it finally addressed the fundamental problems with the previous variants' troublesome suspensions by introducing a basic torsion bar suspension design. The most notable legacy of this vehicle was that it established the production standard for all subsequent Panzer III variants. The Germans concentrated on the French 25 mm fast-firing tank gun when determining the necessary armour thickness for the new Panzer III E. They eventually decided that 30 mm of armour was sufficient. At ranges of over 500 mm at 30°, the frontal armour plate proved powerful enough to withstand the 25 mm armour-piercing rounds.Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Panzer III E variant is a basic medium tank that looks a lot like the Panzer III B variant. It was mounted with the same 37 mm Kampfwagenkanone (KwK) 36 L/46.5 tank gun. However, by increasing the overall armour plate thickness to 20 to 30 mm, this tank's protection is significantly boosted. Despite this, it is nevertheless vulnerable to almost all vehicles in its rank from any angle, with the exception of a few very low-calibre tank guns. Playstyles are comparable to those of the Panzer III B variant.",
+    "hullArmor": "30 / 30 / 20 mm",
+    "turretArmor": "35 / 30 / 30 mm",
+    "crew": "5 persons",
+    "forwardSpeed": "71 km/h",
+    "backwardSpeed": "12 km/h",
+    "enginePower": "300 hp",
+    "weight": "19.5 tons",
+    "powerToWeightRatio": "15.4 hp/ton",
+    "mainArmament": "37 mm KwK36 cannon",
+    "ammunition": "131 rounds",
+    "verticalTurretRotation": "2.8 -> 4°/s",
+    "horizontalTurretRotation": "9.8 -> 14°",
+    "reloadSpeed": "3.7 -> 2.9 s",
+    "verticalGuidance": "-10 / 20°"
+  }
+]
