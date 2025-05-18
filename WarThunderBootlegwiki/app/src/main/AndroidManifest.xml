@@ -13,6 +13,18 @@
         android:theme="@style/Theme.WarThunderBootlegwiki"
         tools:targetApi="31">
         <activity
+            android:name=".Pz35t"
+            android:exported="false" />
+        <activity
+            android:name=".GermanyRank1"
+            android:exported="false" />
+        <activity
+            android:name=".GermanyTree"
+            android:exported="false" />
+        <activity
+            android:name=".Ground"
+            android:exported="false" />
+        <activity
             android:name=".WikiSelect"
             android:exported="false" />
         <activity

@@ -7,4 +7,7 @@
     <string name="air_wiki_redirect">Air Wiki redirect</string>
     <string name="heli_wiki_redirect">Heli Wiki redirect</string>
     <string name="fleet_wiki_redirect">Fleet Wiki redirect</string>
+    <string name="germany_tree_redirect">Germany_Tree_redirect</string>
+    <string name="germany_rank_1_redirect">Germany Rank 1 redirect</string>
+    <string name="general_information">General Information:</string>
 </resources>
