@@ -28,10 +28,42 @@
             android:id="@+id/imageView"
             android:layout_width="match_parent"
             android:layout_height="250dp"
-            android:contentDescription="@string/germany_rank_1_redirect"
+            android:contentDescription="@string/pz_35_t_redirect"
             app:srcCompat="@drawable/pz_35_t"
             android:layout_marginBottom="20dp"
             android:onClick="gotoPz35t"/>
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:contentDescription="@string/pz_iii_e_redirect"
+            app:srcCompat="@drawable/pz_3_e"
+            android:layout_marginBottom="20dp"
+            android:onClick="gotoPz3E"/>
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:contentDescription="@string/pz_iii_b_redirect"
+            app:srcCompat="@drawable/pz_3_b"
+            android:layout_marginBottom="20dp"
+            android:onClick="gotoPz3B"/>
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:contentDescription="@string/pz_38_t_a_redirect"
+            app:srcCompat="@drawable/pz_38_t_a"
+            android:layout_marginBottom="20dp"
+            android:onClick="gotoPz38tA"/>
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:contentDescription="@string/pz_iii_f_redirect"
+            app:srcCompat="@drawable/pz_3_f"
+            android:layout_marginBottom="20dp"
+            android:onClick="gotoPz3F"/>
     </LinearLayout>
 
 </ScrollView>

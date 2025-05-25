@@ -30,4 +30,9 @@ public interface tankDao {
     @Delete
     void delete(Tank tank);
 
+    @Query("DELETE FROM Tank")
+    void deleteAll();
+
+
+
 }
