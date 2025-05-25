@@ -37,17 +37,27 @@ public class Pz35t extends AppCompatActivity {
             Tank tank = AppDB.getInstance(this).tankDao().getTankByName(targetName);
 
             if (tank != null) {
-                // Access any field
-                String name = tank.name;
-                String gun = tank.mainArmament;
-                String armor = tank.hullArmor;
-                String speed = tank.forwardSpeed;
-
-                // Example: Show some fields in TextView
-                String display = "Name: " + name + "\n"
-                        + "Gun: " + gun + "\n"
-                        + "Armor: " + armor + "\n"
-                        + "Speed: " + speed;
+                String display = "Name: " + tank.name + "\n\n"
+                        +"\n"
+                        +"Tank Statistics:\n\n"
+                        + "Hull Armor: " + tank.hullArmor + "\n"
+                        + "Turret Armor: "+ tank.turretArmor + "\n\n"
+                        + "Crew: "+ tank.crew + "\n\n"
+                        + "Forward Speed: "+ tank.forwardSpeed + "\n"
+                        + "Backwards Speed: "+ tank.backwardSpeed + "\n\n"
+                        + "Engine Power: "+ tank.enginePower + "\n"
+                        + "Weight: "+ tank.weight + "\n"
+                        + "Power To Weight Ratio: "+ tank.powerToWeightRatio + "\n\n"
+                        +"\n"
+                        + "Armament Statistics: " + "\n\n"
+                        + "Main Armament: "+ tank.mainArmament + "\n"
+                        + "Reload Speed : "+ tank.reloadSpeed + "\n"
+                        + "Ammunition: "+ tank.ammunition + "\n\n"
+                        + "Vertical Turret Rotation: "+ tank.verticalTurretRotation + "\n"
+                        + "Horizontal Turret Rotation: "+ tank.horizontalTurretRotation + "\n"
+                        + "Vertical Guidence: "+ tank.verticalGuidance + "\n\n"
+                        +"\n"
+                        + "Information:" + tank.information;
 
                 runOnUiThread(() -> {
                     TextView textView = findViewById(R.id.textView3);

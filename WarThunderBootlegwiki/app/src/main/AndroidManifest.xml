@@ -13,6 +13,18 @@
         android:theme="@style/Theme.WarThunderBootlegwiki"
         tools:targetApi="31">
         <activity
+            android:name=".Pz3f"
+            android:exported="false" />
+        <activity
+            android:name=".Pz38tA"
+            android:exported="false" />
+        <activity
+            android:name=".Pz3B"
+            android:exported="false" />
+        <activity
+            android:name=".Pz3e"
+            android:exported="false" />
+        <activity
             android:name=".Pz35t"
             android:exported="false" />
         <activity

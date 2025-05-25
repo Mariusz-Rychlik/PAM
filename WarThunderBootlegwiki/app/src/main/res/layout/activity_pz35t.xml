@@ -29,7 +29,7 @@
             android:id="@+id/imageView"
             android:layout_width="match_parent"
             android:layout_height="250dp"
-            android:contentDescription="@string/germany_rank_1_redirect"
+            android:contentDescription="@string/pz_35_t"
             app:srcCompat="@drawable/pz_35_t_closeup"
             android:layout_marginBottom="20dp" />
 

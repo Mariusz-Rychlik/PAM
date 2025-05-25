@@ -27,4 +27,20 @@ public class GermanyRank1 extends AppCompatActivity {
     public void gotoPz35t(View view) {
         startActivity(new Intent(GermanyRank1.this, Pz35t.class));
     }
+
+    public void gotoPz3E(View view) {
+        startActivity(new Intent(GermanyRank1.this, Pz3e.class));
+    }
+
+    public void gotoPz3B(View view) {
+        startActivity(new Intent(GermanyRank1.this, Pz3B.class));
+    }
+
+    public void gotoPz38tA(View view) {
+        startActivity(new Intent(GermanyRank1.this, Pz38tA.class));
+    }
+
+    public void gotoPz3F(View view) {
+        startActivity(new Intent(GermanyRank1.this, Pz3f.class));
+    }
 }
