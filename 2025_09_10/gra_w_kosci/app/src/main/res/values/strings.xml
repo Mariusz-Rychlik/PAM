@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">gra_w_kosci</string>
+    <string name="label1Text">Gra w kości. Autor 80085</string>
+    <string name="button1Text">RZUĆ KOŚĆMI</string>
+    <string name="scoreText">Wynik tego losowania: </string>
+    <string name="scoreGameText">Wynik gry: </string>
+    <string name="resetGameText">RESETUJ WYNIK</string>
+</resources>
